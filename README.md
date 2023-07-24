@@ -8,6 +8,7 @@
 5. Add your github username to time_log.md.
 6. Follow the format of all .md files.
 7. Use the commit message "initialize username" with "username" being your github usename.
+* Steps 1-7 are to be done ONLY ONCE when joining TiXan.
 
 
 ## Contributors
