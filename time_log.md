@@ -1,1 +1,1 @@
-# 3ohn 00:00 total
+# 3ohn($50/h) 00:00 hours_total

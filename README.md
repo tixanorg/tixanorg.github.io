@@ -15,13 +15,13 @@
 
 Note: There are three ways to contribute to TiXaN, with your time, by buying TXN or donating assets that we need.
 
-### a: Contributing time
+### a. Contributing time
 
 1. Make changes to the forked repo on your own github account.
 2. Commit & push
 3. Create pull request with a message in this format: username: total hours worked on the task. (e.g. "3ohn + 1:30" for 1 hour and 30 minutes), don't forget to add as much details as you can.
 
-### Contributing Fiat/crypto/assets
+### b. Contributing Fiat/crypto/assets
 
 Note: an admin will calculate the TXN value of your contribution and will create a record in the holders.md file.
 1. Join TiXaN first.
@@ -40,7 +40,11 @@ Assets: None
 
 - John (3ohn)
 
+## issues
 
+To submit issues:
+1. Join TiXaN
+2. [Create an issue here] (https://github.com/tixanorg/tixanorg.github.io/issues)
 
 
 *add task management on github
