@@ -14,6 +14,7 @@
 ## How to Contribute
 
 Note: There are three ways to contribute to TiXaN, with your time, by buying TXN or donating assets that we need.
+* Don't forget to update your forked repo with the latest and fetch origin everytime before pushing to origin.
 
 ### a. Contributing time
 
@@ -24,6 +25,7 @@ Note: There are three ways to contribute to TiXaN, with your time, by buying TXN
 ### b. Contributing Fiat/crypto/assets
 
 Note: an admin will calculate the TXN value of your contribution and will create a record in the holders.md file.
+
 1. Join TiXaN first.
 2. Add your github username to treasury.md.
 3. Commit changes with the message "username/add_to_treasury + amount + currency". (e.g. "3ohn/add_to_treasury + 0.1 ETH") Don't forget to push origin!
